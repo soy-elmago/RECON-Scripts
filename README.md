@@ -258,7 +258,7 @@ This tool is for educational and authorized testing purposes only. Users are res
 
 - Create an [Issue](https://github.com/yourusername/submagic/issues) for bug reports
 - [Discussions](https://github.com/yourusername/submagic/discussions) for questions and ideas
-- Follow [@yourusername](https://twitter.com/yourusername) for updates
+- Follow [@soyel_mago](https://twitter.com/soel_mago) for updates
 
 ---
 
