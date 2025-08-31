@@ -32,7 +32,6 @@
 ## 📋 Prerequisites
 
 - **Go** (golang) installed and in PATH
-- **Internet connection** for tool downloads and API queries
 - **System package manager** (apt/yum/pacman) for curl/jq installation
 
 ## 🚀 Installation
